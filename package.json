@@ -1,5 +1,5 @@
 {
-  "name": "GDG Tarija",
+  "name": "gdg-tarija",
   "version": "1.0.0",
   "description": "Realtime chat app with rooms",
   "main": "server.js",

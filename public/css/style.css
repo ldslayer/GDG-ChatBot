@@ -31,8 +31,9 @@ a {
 	text-decoration: none;
 }
 
-img{
-	max-width: 100%;
+.join-header img{
+	display: flex;
+	width: 60%;
 }
 i {
 	color: var(--google-blue-color);
